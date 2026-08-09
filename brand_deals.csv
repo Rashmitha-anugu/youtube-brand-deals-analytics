@@ -1,0 +1,521 @@
+deal_id,creator_id,brand,category,format,campaign_month,deal_value_usd
+D0001,C060,PayPilot,Gaming,Short,2024-03,2706.47
+D0002,C020,CoinFlow,Food,Dedicated Video,2024-05,1824.45
+D0003,C033,ZenLiving,Food,Livestream,2024-09,33514.83
+D0004,C036,UrbanEats,Beauty,Livestream,2025-06,500
+D0005,C028,VoltEnergy,Tech,Integration,2024-02,14614.23
+D0006,C040,VoltEnergy,Beauty,Integration,2024-08,17452.08
+D0007,C052,PureSkin,Beauty,Integration,2024-09,36049.46
+D0008,C015,PayPilot,Lifestyle,Dedicated Video,2025-10,15411.14
+D0009,C022,FitForge,Finance,Dedicated Video,2024-04,776.53
+D0010,C008,PixelPlay,Lifestyle,Livestream,2025-07,500
+D0011,C024,TrailGear,Lifestyle,Livestream,2024-03,56718.73
+D0012,C036,NovaTech,Beauty,Integration,2024-07,500
+D0013,C020,AeroFit,Food,Short,2024-07,759.52
+D0014,C043,PixelPlay,Gaming,Dedicated Video,2024-10,2340.03
+D0015,C010,PureSkin,Gaming,Dedicated Video,2024-02,8714.86
+D0016,C010,ByteBank,Gaming,Dedicated Video,2024-04,14276.9
+D0017,C030,PayPilot,Gaming,Integration,2025-03,536.3
+D0018,C029,PureSkin,Fitness,Integration,2025-12,500
+D0019,C018,VoltEnergy,Fitness,Livestream,2024-03,24359.93
+D0020,C027,SnackHouse,Gaming,Short,2025-06,14722.07
+D0021,C031,CoinFlow,Lifestyle,Dedicated Video,2024-12,500
+D0022,C028,PayPilot,Tech,Livestream,2024-01,11851.11
+D0023,C002,SnackHouse,Beauty,Livestream,2025-07,7825.21
+D0024,C018,GlowLab,Fitness,Livestream,2024-09,29865.91
+D0025,C049,AeroFit,Gaming,Dedicated Video,2024-08,500
+D0026,C039,PixelPlay,Food,Dedicated Video,2024-06,930.43
+D0027,C005,PeakFuel,Fitness,Integration,2024-04,4348.04
+D0028,C033,VoltEnergy,Food,Short,2024-01,29448.76
+D0029,C012,ZenLiving,Beauty,Short,2025-08,984.5
+D0030,C016,LumaBeauty,Lifestyle,Livestream,2025-07,525.87
+D0031,C018,NovaTech,Fitness,Short,2025-06,10957.27
+D0032,C006,PayPilot,Tech,Short,2024-08,500
+D0033,C022,CloudNest,Finance,Short,2025-11,500
+D0034,C018,GlowLab,Fitness,Short,2024-04,25649.12
+D0035,C036,CoinFlow,Beauty,Short,2025-11,500
+D0036,C056,TrailGear,Food,Livestream,2024-04,4137.76
+D0037,C006,VoltEnergy,Tech,Integration,2024-04,647.75
+D0038,C020,PayPilot,Food,Dedicated Video,2025-08,2712.93
+D0039,C005,CoinFlow,Fitness,Integration,2024-01,3743.9
+D0040,C051,TrailGear,Finance,Integration,2025-02,6539.39
+D0041,C029,CoinFlow,Fitness,Dedicated Video,2025-03,500
+D0042,C002,GlowLab,Beauty,Dedicated Video,2024-08,38331.12
+D0043,C049,LumaBeauty,Gaming,Integration,2025-04,500
+D0044,C043,LumaBeauty,Gaming,Dedicated Video,2024-06,1908.52
+D0045,C017,CloudNest,Food,Short,2024-04,28239.17
+D0046,C041,PureSkin,Lifestyle,Livestream,2024-02,620.59
+D0047,C046,TrailGear,Lifestyle,Integration,2024-10,25707.33
+D0048,C033,UrbanEats,Food,Short,2025-02,30726.87
+D0049,C056,CloudNest,Food,Dedicated Video,2024-09,11704.25
+D0050,C056,PureSkin,Food,Integration,2025-03,3925.16
+D0051,C037,UrbanEats,Beauty,Livestream,2024-08,4510.53
+D0052,C032,UrbanEats,Finance,Dedicated Video,2024-05,5160.2
+D0053,C027,LumaBeauty,Gaming,Integration,2024-03,29075.2
+D0054,C041,ByteBank,Lifestyle,Livestream,2025-06,500
+D0055,C049,AeroFit,Gaming,Dedicated Video,2025-03,500
+D0056,C011,ZenLiving,Lifestyle,Integration,2024-03,500
+D0057,C017,TrailGear,Food,Dedicated Video,2025-03,80002.7
+D0058,C013,SnackHouse,Food,Livestream,2025-04,2229.36
+D0059,C018,MetaMart,Fitness,Dedicated Video,2025-07,85313.88
+D0060,C015,GlowLab,Lifestyle,Integration,2025-08,10203.94
+D0061,C020,FitForge,Food,Livestream,2024-02,1025.75
+D0062,C033,PeakFuel,Food,Short,2024-06,15495.76
+D0063,C010,CoinFlow,Gaming,Integration,2025-10,9329.01
+D0064,C038,PureSkin,Beauty,Livestream,2025-09,500
+D0065,C042,PayPilot,Tech,Dedicated Video,2025-09,5168.88
+D0066,C009,ByteBank,Gaming,Livestream,2025-03,2415.0
+D0067,C054,PayPilot,Food,Livestream,2025-08,500
+D0068,C058,NovaTech,Tech,Short,2024-02,786.77
+D0069,C004,NovaTech,Food,Short,2024-08,500
+D0070,C018,LumaBeauty,Fitness,Integration,2024-05,32572.43
+D0071,C002,GlowLab,Beauty,Integration,2024-09,6277.95
+D0072,C047,ZenLiving,Finance,Short,2025-03,57790.46
+D0073,C005,VoltEnergy,Fitness,Dedicated Video,2024-11,7031.8
+D0074,C007,ZenLiving,Gaming,Dedicated Video,2025-09,2427.83
+D0075,C026,ByteBank,Finance,Livestream,2025-12,15524.5
+D0076,C048,VoltEnergy,Beauty,Short,2024-05,1011.5
+D0077,C056,CoinFlow,Food,Dedicated Video,2024-10,8226.2
+D0078,C037,CoinFlow,Beauty,Integration,2025-02,6976.33
+D0079,C002,NovaTech,Beauty,Integration,2024-09,12886.98
+D0080,C006,GlowLab,Tech,Integration,2025-01,537.01
+D0081,C010,ByteBank,Gaming,Integration,2025-08,2607.08
+D0082,C019,UrbanEats,Beauty,Livestream,2025-05,500
+D0083,C049,PeakFuel,Gaming,Short,2024-10,500
+D0084,C026,ByteBank,Finance,Dedicated Video,2025-02,39187.47
+D0085,C026,PeakFuel,Finance,Dedicated Video,2024-11,54002.75
+D0086,C026,MetaMart,Finance,Short,2025-12,20635.54
+D0087,C023,ZenLiving,Fitness,Integration,2024-08,2041.37
+D0088,C044,PeakFuel,Beauty,Short,2025-09,500
+D0089,C020,GlowLab,Food,Livestream,2025-03,500
+D0090,C029,PeakFuel,Fitness,Integration,2024-11,500
+D0091,C033,GlowLab,Food,Integration,2024-02,18012.08
+D0092,C051,UrbanEats,Finance,Short,2024-03,7801.64
+D0093,C022,LumaBeauty,Finance,Dedicated Video,2025-07,834.24
+D0094,C053,NovaTech,Gaming,Integration,2025-10,500
+D0095,C024,PayPilot,Lifestyle,Short,2024-06,42163.55
+D0096,C054,AeroFit,Food,Dedicated Video,2025-10,500
+D0097,C047,CloudNest,Finance,Livestream,2024-02,63935.98
+D0098,C058,AeroFit,Tech,Integration,2024-12,1704.44
+D0099,C053,AeroFit,Gaming,Integration,2025-08,500
+D0100,C018,GlowLab,Fitness,Livestream,2025-05,13061.5
+D0101,C026,CloudNest,Finance,Short,2024-08,19572.89
+D0102,C045,FitForge,Beauty,Integration,2025-11,540.62
+D0103,C028,FitForge,Tech,Dedicated Video,2024-10,18882.46
+D0104,C037,MetaMart,Beauty,Integration,2025-11,2487.22
+D0105,C005,ByteBank,Fitness,Dedicated Video,2025-01,8784.92
+D0106,C050,AeroFit,Lifestyle,Short,2024-05,5273.36
+D0107,C052,PayPilot,Beauty,Integration,2024-03,78401.66
+D0108,C031,MetaMart,Lifestyle,Short,2024-02,500
+D0109,C028,VoltEnergy,Tech,Livestream,2025-12,13974.96
+D0110,C006,VoltEnergy,Tech,Livestream,2025-08,673.17
+D0111,C011,SnackHouse,Lifestyle,Livestream,2024-12,500
+D0112,C024,SnackHouse,Lifestyle,Integration,2024-01,25764.6
+D0113,C037,ByteBank,Beauty,Dedicated Video,2025-08,5007.65
+D0114,C002,CloudNest,Beauty,Integration,2025-04,13533.7
+D0115,C013,PeakFuel,Food,Dedicated Video,2024-05,14073.41
+D0116,C036,PixelPlay,Beauty,Short,2024-10,500
+D0117,C051,CloudNest,Finance,Integration,2024-08,13772.4
+D0118,C034,PayPilot,Lifestyle,Livestream,2025-02,8837.14
+D0119,C041,FitForge,Lifestyle,Integration,2024-05,1236.04
+D0120,C058,AeroFit,Tech,Short,2024-03,771.74
+D0121,C038,CoinFlow,Beauty,Integration,2024-06,500
+D0122,C042,SnackHouse,Tech,Integration,2025-07,1595.42
+D0123,C020,MetaMart,Food,Livestream,2024-03,900.35
+D0124,C026,SnackHouse,Finance,Integration,2024-12,31486.44
+D0125,C056,TrailGear,Food,Livestream,2024-08,5577.67
+D0126,C032,CloudNest,Finance,Dedicated Video,2024-03,7441.7
+D0127,C019,PeakFuel,Beauty,Dedicated Video,2024-04,902.57
+D0128,C025,LumaBeauty,Gaming,Livestream,2025-06,500
+D0129,C036,FitForge,Beauty,Short,2024-05,500
+D0130,C009,CloudNest,Gaming,Short,2025-08,1690.2
+D0131,C046,CloudNest,Lifestyle,Short,2025-04,22327.71
+D0132,C017,PureSkin,Food,Integration,2025-12,13110.79
+D0133,C003,GlowLab,Gaming,Dedicated Video,2024-07,500
+D0134,C046,LumaBeauty,Lifestyle,Integration,2025-05,14958.63
+D0135,C035,TrailGear,Finance,Short,2025-10,8434.41
+D0136,C050,ByteBank,Lifestyle,Short,2025-11,7657.17
+D0137,C037,CloudNest,Beauty,Livestream,2025-01,5362.4
+D0138,C014,FitForge,Fitness,Integration,2025-06,729.33
+D0139,C015,CloudNest,Lifestyle,Integration,2024-02,6634.01
+D0140,C031,GlowLab,Lifestyle,Integration,2024-10,500
+D0141,C059,GlowLab,Lifestyle,Integration,2025-02,48565.87
+D0142,C001,UrbanEats,Finance,Short,2025-07,500
+D0143,C055,PixelPlay,Finance,Livestream,2024-09,14735.17
+D0144,C012,CoinFlow,Beauty,Livestream,2025-02,662.44
+D0145,C025,TrailGear,Gaming,Integration,2025-03,814.31
+D0146,C011,PureSkin,Lifestyle,Livestream,2025-10,500
+D0147,C015,PureSkin,Lifestyle,Integration,2025-04,8651.05
+D0148,C044,PayPilot,Beauty,Dedicated Video,2025-05,591.91
+D0149,C010,VoltEnergy,Gaming,Integration,2024-11,8530.23
+D0150,C030,GlowLab,Gaming,Dedicated Video,2025-06,797.99
+D0151,C028,VoltEnergy,Tech,Short,2025-11,7234.83
+D0152,C024,MetaMart,Lifestyle,Livestream,2025-03,53130.22
+D0153,C008,SnackHouse,Lifestyle,Integration,2025-06,500
+D0154,C053,NovaTech,Gaming,Integration,2024-08,500
+D0155,C016,GlowLab,Lifestyle,Integration,2024-03,500
+D0156,C009,UrbanEats,Gaming,Short,2024-08,3264.52
+D0157,C043,SnackHouse,Gaming,Integration,2025-02,714.81
+D0158,C051,UrbanEats,Finance,Short,2025-11,7333.24
+D0159,C052,PeakFuel,Beauty,Livestream,2024-02,53906.33
+D0160,C035,PayPilot,Finance,Integration,2024-02,6457.62
+D0161,C014,PureSkin,Fitness,Livestream,2024-07,993.48
+D0162,C045,FitForge,Beauty,Integration,2025-01,798.26
+D0163,C057,UrbanEats,Tech,Livestream,2025-03,26422.1
+D0164,C002,CloudNest,Beauty,Short,2025-06,12754.92
+D0165,C036,AeroFit,Beauty,Short,2024-09,500
+D0166,C059,PureSkin,Lifestyle,Dedicated Video,2025-05,42152.95
+D0167,C005,VoltEnergy,Fitness,Integration,2024-01,2616.43
+D0168,C001,AeroFit,Finance,Dedicated Video,2025-05,552.97
+D0169,C007,PureSkin,Gaming,Dedicated Video,2025-05,1003.81
+D0170,C020,AeroFit,Food,Dedicated Video,2025-09,3504.05
+D0171,C006,CloudNest,Tech,Livestream,2025-02,539.07
+D0172,C018,PixelPlay,Fitness,Dedicated Video,2024-03,60024.98
+D0173,C038,UrbanEats,Beauty,Integration,2025-11,500
+D0174,C051,SnackHouse,Finance,Dedicated Video,2025-05,30084.07
+D0175,C050,TrailGear,Lifestyle,Short,2024-01,13417.96
+D0176,C052,PeakFuel,Beauty,Integration,2025-11,25628.77
+D0177,C001,PeakFuel,Finance,Short,2025-03,500
+D0178,C039,FitForge,Food,Short,2025-01,500
+D0179,C011,PureSkin,Lifestyle,Livestream,2024-06,500
+D0180,C047,LumaBeauty,Finance,Livestream,2025-08,73619.38
+D0181,C029,LumaBeauty,Fitness,Short,2025-02,500
+D0182,C019,PayPilot,Beauty,Livestream,2025-07,500
+D0183,C012,TrailGear,Beauty,Dedicated Video,2025-12,2006.71
+D0184,C016,VoltEnergy,Lifestyle,Short,2025-10,500
+D0185,C035,SnackHouse,Finance,Dedicated Video,2024-12,21949.09
+D0186,C049,MetaMart,Gaming,Short,2025-02,500
+D0187,C026,UrbanEats,Finance,Livestream,2025-10,31940.87
+D0188,C023,TrailGear,Fitness,Short,2024-11,2486.73
+D0189,C003,ZenLiving,Gaming,Dedicated Video,2024-01,500
+D0190,C015,SnackHouse,Lifestyle,Livestream,2025-09,6946.22
+D0191,C001,CloudNest,Finance,Integration,2024-07,500
+D0192,C034,TrailGear,Lifestyle,Short,2025-08,6083.86
+D0193,C059,AeroFit,Lifestyle,Dedicated Video,2025-10,38598.43
+D0194,C032,CloudNest,Finance,Integration,2025-06,1461.01
+D0195,C009,PureSkin,Gaming,Integration,2025-01,4588.55
+D0196,C019,ByteBank,Beauty,Dedicated Video,2024-09,538.9
+D0197,C018,GlowLab,Fitness,Short,2025-06,22619.5
+D0198,C029,MetaMart,Fitness,Short,2024-12,500
+D0199,C056,TrailGear,Food,Livestream,2024-06,3990.92
+D0200,C019,UrbanEats,Beauty,Short,2025-05,522.25
+D0201,C045,PeakFuel,Beauty,Integration,2024-08,500
+D0202,C041,PeakFuel,Lifestyle,Dedicated Video,2025-01,2086.05
+D0203,C047,LumaBeauty,Finance,Livestream,2025-09,73933.35
+D0204,C036,NovaTech,Beauty,Integration,2025-07,579.72
+D0205,C008,PeakFuel,Lifestyle,Integration,2025-03,500
+D0206,C042,VoltEnergy,Tech,Short,2024-09,696.63
+D0207,C042,VoltEnergy,Tech,Dedicated Video,2025-11,1591.09
+D0208,C045,UrbanEats,Beauty,Integration,2025-04,500
+D0209,C042,PixelPlay,Tech,Integration,2024-03,1383.63
+D0210,C006,PeakFuel,Tech,Dedicated Video,2024-05,1637.41
+D0211,C016,PureSkin,Lifestyle,Short,2025-11,500
+D0212,C032,SnackHouse,Finance,Livestream,2024-04,1506.11
+D0213,C056,SnackHouse,Food,Livestream,2024-12,2899.89
+D0214,C033,PeakFuel,Food,Short,2025-09,25708.3
+D0215,C020,VoltEnergy,Food,Dedicated Video,2025-05,3733.09
+D0216,C047,AeroFit,Finance,Integration,2024-02,70216.82
+D0217,C008,CoinFlow,Lifestyle,Dedicated Video,2025-11,500
+D0218,C047,FitForge,Finance,Dedicated Video,2024-01,130427.9
+D0219,C024,NovaTech,Lifestyle,Dedicated Video,2025-04,97404.35
+D0220,C016,VoltEnergy,Lifestyle,Dedicated Video,2025-04,1210.19
+D0221,C015,GlowLab,Lifestyle,Short,2024-08,9251.06
+D0222,C026,TrailGear,Finance,Dedicated Video,2025-03,112492.28
+D0223,C048,NovaTech,Beauty,Integration,2025-03,1275.41
+D0224,C015,ByteBank,Lifestyle,Short,2025-09,14859.09
+D0225,C014,MetaMart,Fitness,Integration,2025-02,779.39
+D0226,C030,PureSkin,Gaming,Dedicated Video,2025-07,500
+D0227,C019,ByteBank,Beauty,Short,2024-11,500
+D0228,C010,ByteBank,Gaming,Dedicated Video,2024-06,10734.32
+D0229,C006,GlowLab,Tech,Integration,2025-10,532.97
+D0230,C044,ByteBank,Beauty,Short,2024-09,500
+D0231,C052,CoinFlow,Beauty,Integration,2024-04,27826.55
+D0232,C059,ByteBank,Lifestyle,Dedicated Video,2024-01,104808.92
+D0233,C003,CoinFlow,Gaming,Livestream,2024-02,500
+D0234,C029,SnackHouse,Fitness,Integration,2024-02,500
+D0235,C009,CloudNest,Gaming,Livestream,2024-07,3097.34
+D0236,C023,CloudNest,Fitness,Short,2025-01,1789.48
+D0237,C034,PureSkin,Lifestyle,Short,2025-07,13420.98
+D0238,C037,NovaTech,Beauty,Livestream,2024-12,5950.05
+D0239,C046,PureSkin,Lifestyle,Short,2025-07,19152.25
+D0240,C039,LumaBeauty,Food,Integration,2024-01,500
+D0241,C004,ByteBank,Food,Dedicated Video,2024-05,500
+D0242,C022,PayPilot,Finance,Short,2024-11,500
+D0243,C045,GlowLab,Beauty,Short,2024-08,522.12
+D0244,C012,AeroFit,Beauty,Short,2025-08,511.39
+D0245,C041,GlowLab,Lifestyle,Dedicated Video,2025-11,2920.52
+D0246,C025,PureSkin,Gaming,Livestream,2025-12,500
+D0247,C011,PeakFuel,Lifestyle,Livestream,2024-03,500
+D0248,C022,PixelPlay,Finance,Livestream,2025-11,500
+D0249,C027,CloudNest,Gaming,Short,2025-10,12571.8
+D0250,C013,CoinFlow,Food,Dedicated Video,2024-01,7335.7
+D0251,C006,ByteBank,Tech,Livestream,2024-06,500
+D0252,C006,CloudNest,Tech,Short,2025-06,500
+D0253,C037,ZenLiving,Beauty,Integration,2025-04,3152.38
+D0254,C012,CoinFlow,Beauty,Integration,2024-07,1126.85
+D0255,C021,VoltEnergy,Fitness,Dedicated Video,2024-03,500
+D0256,C008,TrailGear,Lifestyle,Livestream,2024-05,500
+D0257,C056,SnackHouse,Food,Short,2025-02,2301.62
+D0258,C057,CoinFlow,Tech,Short,2025-11,28802.31
+D0259,C054,PeakFuel,Food,Livestream,2025-11,500
+D0260,C013,PeakFuel,Food,Livestream,2024-07,5841.97
+D0261,C020,MetaMart,Food,Livestream,2024-05,1142.03
+D0262,C046,ZenLiving,Lifestyle,Integration,2024-09,20056.99
+D0263,C012,PixelPlay,Beauty,Livestream,2025-07,773.5
+D0264,C055,CloudNest,Finance,Integration,2025-09,20522.26
+D0265,C059,MetaMart,Lifestyle,Integration,2025-09,27947.46
+D0266,C030,MetaMart,Gaming,Short,2024-07,500
+D0267,C036,PixelPlay,Beauty,Short,2024-10,500
+D0268,C010,TrailGear,Gaming,Integration,2024-02,9406.85
+D0269,C017,MetaMart,Food,Livestream,2025-01,14858.82
+D0270,C033,AeroFit,Food,Short,2024-06,29799.26
+D0271,C044,CloudNest,Beauty,Short,2025-09,500
+D0272,C004,UrbanEats,Food,Dedicated Video,2025-04,500
+D0273,C013,LumaBeauty,Food,Short,2025-02,6863.39
+D0274,C041,UrbanEats,Lifestyle,Dedicated Video,2024-01,1882.58
+D0275,C040,FitForge,Beauty,Livestream,2025-09,7387.95
+D0276,C013,TrailGear,Food,Dedicated Video,2025-10,5060.93
+D0277,C011,MetaMart,Lifestyle,Dedicated Video,2024-02,500
+D0278,C049,FitForge,Gaming,Integration,2024-06,500
+D0279,C011,NovaTech,Lifestyle,Dedicated Video,2024-12,500
+D0280,C004,VoltEnergy,Food,Dedicated Video,2025-02,500
+D0281,C043,CloudNest,Gaming,Dedicated Video,2025-10,2343.38
+D0282,C013,CloudNest,Food,Integration,2024-09,8554.55
+D0283,C022,CoinFlow,Finance,Integration,2024-01,500
+D0284,C042,LumaBeauty,Tech,Integration,2025-03,2360.52
+D0285,C028,PeakFuel,Tech,Dedicated Video,2024-04,50472.29
+D0286,C024,AeroFit,Lifestyle,Short,2024-06,16434.93
+D0287,C008,MetaMart,Lifestyle,Integration,2025-11,500
+D0288,C040,PeakFuel,Beauty,Dedicated Video,2025-10,31738.14
+D0289,C017,ByteBank,Food,Short,2024-01,25357.03
+D0290,C028,AeroFit,Tech,Integration,2025-04,14205.8
+D0291,C033,PureSkin,Food,Livestream,2025-04,23760.61
+D0292,C006,ByteBank,Tech,Livestream,2025-03,650.79
+D0293,C026,LumaBeauty,Finance,Livestream,2024-02,24737.05
+D0294,C024,ByteBank,Lifestyle,Dedicated Video,2024-08,103573.35
+D0295,C049,VoltEnergy,Gaming,Integration,2024-01,500
+D0296,C007,VoltEnergy,Gaming,Short,2025-08,500
+D0297,C003,FitForge,Gaming,Dedicated Video,2025-03,500
+D0298,C050,SnackHouse,Lifestyle,Integration,2025-11,17014.35
+D0299,C027,PayPilot,Gaming,Integration,2024-09,21052.13
+D0300,C056,UrbanEats,Food,Short,2025-11,3789.54
+D0301,C046,PayPilot,Lifestyle,Integration,2025-05,26326.54
+D0302,C019,TrailGear,Beauty,Livestream,2024-01,500
+D0303,C044,PureSkin,Beauty,Short,2024-05,500
+D0304,C048,LumaBeauty,Beauty,Livestream,2024-08,1125.51
+D0305,C036,PayPilot,Beauty,Dedicated Video,2024-01,820.14
+D0306,C048,SnackHouse,Beauty,Integration,2025-12,1748.4
+D0307,C003,GlowLab,Gaming,Livestream,2024-09,500
+D0308,C050,FitForge,Lifestyle,Short,2025-04,14144.79
+D0309,C011,PayPilot,Lifestyle,Livestream,2025-06,500
+D0310,C053,LumaBeauty,Gaming,Dedicated Video,2024-04,500
+D0311,C025,PixelPlay,Gaming,Dedicated Video,2025-01,837.9
+D0312,C021,VoltEnergy,Fitness,Dedicated Video,2024-04,500
+D0313,C054,LumaBeauty,Food,Dedicated Video,2024-07,500
+D0314,C003,SnackHouse,Gaming,Dedicated Video,2024-03,500
+D0315,C028,FitForge,Tech,Short,2024-01,8713.79
+D0316,C007,PayPilot,Gaming,Short,2025-10,500
+D0317,C015,MetaMart,Lifestyle,Integration,2025-12,12593.99
+D0318,C001,MetaMart,Finance,Integration,2024-04,500
+D0319,C014,PayPilot,Fitness,Livestream,2025-09,899.4
+D0320,C030,PureSkin,Gaming,Dedicated Video,2024-10,795.16
+D0321,C007,VoltEnergy,Gaming,Short,2025-08,500
+D0322,C011,CloudNest,Lifestyle,Dedicated Video,2024-11,500
+D0323,C030,PeakFuel,Gaming,Livestream,2024-12,500
+D0324,C047,CoinFlow,Finance,Dedicated Video,2024-01,240204.94
+D0325,C035,FitForge,Finance,Livestream,2025-09,7944.64
+D0326,C001,UrbanEats,Finance,Integration,2025-08,500
+D0327,C048,ZenLiving,Beauty,Livestream,2024-12,537.29
+D0328,C057,PayPilot,Tech,Dedicated Video,2024-02,141400.01
+D0329,C037,MetaMart,Beauty,Integration,2025-01,4694.35
+D0330,C032,AeroFit,Finance,Livestream,2025-08,1043.56
+D0331,C024,GlowLab,Lifestyle,Dedicated Video,2025-10,63249.94
+D0332,C009,NovaTech,Gaming,Integration,2024-05,2819.24
+D0333,C057,FitForge,Tech,Short,2024-03,26441.93
+D0334,C017,FitForge,Food,Integration,2025-12,37151.72
+D0335,C056,PayPilot,Food,Livestream,2024-05,3087.76
+D0336,C053,SnackHouse,Gaming,Dedicated Video,2025-10,500
+D0337,C023,NovaTech,Fitness,Dedicated Video,2025-02,4666.78
+D0338,C037,CoinFlow,Beauty,Dedicated Video,2025-05,3992.13
+D0339,C017,CoinFlow,Food,Livestream,2025-07,16135.76
+D0340,C020,ByteBank,Food,Short,2025-11,605.33
+D0341,C014,VoltEnergy,Fitness,Livestream,2024-11,1053.0
+D0342,C006,GlowLab,Tech,Dedicated Video,2024-09,709.59
+D0343,C050,AeroFit,Lifestyle,Integration,2025-09,11451.31
+D0344,C044,PixelPlay,Beauty,Dedicated Video,2024-12,500
+D0345,C034,PixelPlay,Lifestyle,Dedicated Video,2025-12,27824.33
+D0346,C030,FitForge,Gaming,Livestream,2025-07,500
+D0347,C017,CloudNest,Food,Short,2025-11,17173.51
+D0348,C008,PayPilot,Lifestyle,Short,2024-03,500
+D0349,C001,AeroFit,Finance,Short,2024-08,500
+D0350,C048,MetaMart,Beauty,Integration,2025-04,1419.58
+D0351,C010,CloudNest,Gaming,Dedicated Video,2024-04,19288.52
+D0352,C058,VoltEnergy,Tech,Short,2025-04,725.3
+D0353,C031,SnackHouse,Lifestyle,Dedicated Video,2025-05,500
+D0354,C038,AeroFit,Beauty,Dedicated Video,2024-11,500
+D0355,C032,CoinFlow,Finance,Livestream,2024-07,2007.55
+D0356,C052,CloudNest,Beauty,Integration,2025-06,47286.76
+D0357,C009,ZenLiving,Gaming,Short,2025-04,1763.11
+D0358,C048,PixelPlay,Beauty,Short,2024-09,796.7
+D0359,C037,AeroFit,Beauty,Integration,2024-10,3802.1
+D0360,C041,TrailGear,Lifestyle,Short,2025-02,990.14
+D0361,C046,NovaTech,Lifestyle,Short,2025-08,18398.65
+D0362,C009,CloudNest,Gaming,Integration,2025-10,2401.09
+D0363,C036,TrailGear,Beauty,Dedicated Video,2024-01,961.99
+D0364,C029,PayPilot,Fitness,Integration,2024-05,500
+D0365,C060,PayPilot,Gaming,Short,2025-06,2239.99
+D0366,C020,UrbanEats,Food,Short,2025-04,934.89
+D0367,C023,PayPilot,Fitness,Short,2025-04,3311.06
+D0368,C024,PeakFuel,Lifestyle,Integration,2025-02,56882.8
+D0369,C028,AeroFit,Tech,Integration,2025-05,24120.08
+D0370,C009,PayPilot,Gaming,Short,2024-04,2668.19
+D0371,C002,CloudNest,Beauty,Integration,2024-04,7336.64
+D0372,C024,CloudNest,Lifestyle,Livestream,2025-11,39969.28
+D0373,C012,ZenLiving,Beauty,Integration,2024-09,1509.83
+D0374,C048,PayPilot,Beauty,Dedicated Video,2025-05,2578.6
+D0375,C034,CoinFlow,Lifestyle,Dedicated Video,2024-09,17495.91
+D0376,C038,PeakFuel,Beauty,Dedicated Video,2025-01,500
+D0377,C016,UrbanEats,Lifestyle,Integration,2025-04,500
+D0378,C032,MetaMart,Finance,Integration,2024-11,4338.57
+D0379,C047,CoinFlow,Finance,Integration,2024-09,120236.67
+D0380,C056,AeroFit,Food,Integration,2024-03,4067.15
+D0381,C057,PayPilot,Tech,Dedicated Video,2025-08,153756.59
+D0382,C010,GlowLab,Gaming,Short,2024-11,3833.11
+D0383,C013,PeakFuel,Food,Dedicated Video,2025-04,5506.88
+D0384,C001,VoltEnergy,Finance,Integration,2025-09,500
+D0385,C053,PureSkin,Gaming,Short,2025-11,500
+D0386,C035,MetaMart,Finance,Livestream,2024-07,4502.93
+D0387,C044,MetaMart,Beauty,Livestream,2025-11,500
+D0388,C058,PayPilot,Tech,Short,2025-06,1456.1
+D0389,C014,TrailGear,Fitness,Livestream,2025-06,1002.74
+D0390,C001,UrbanEats,Finance,Short,2024-08,500
+D0391,C007,PeakFuel,Gaming,Dedicated Video,2025-03,1348.18
+D0392,C047,SnackHouse,Finance,Short,2025-04,44146.41
+D0393,C006,SnackHouse,Tech,Dedicated Video,2024-11,1156.05
+D0394,C004,SnackHouse,Food,Short,2025-05,500
+D0395,C029,VoltEnergy,Fitness,Dedicated Video,2024-08,500
+D0396,C050,PureSkin,Lifestyle,Integration,2024-05,12330.37
+D0397,C005,TrailGear,Fitness,Short,2025-02,2666.21
+D0398,C011,UrbanEats,Lifestyle,Short,2025-08,500
+D0399,C049,CloudNest,Gaming,Dedicated Video,2024-04,506.49
+D0400,C002,NovaTech,Beauty,Short,2024-07,9342.65
+D0401,C025,MetaMart,Gaming,Dedicated Video,2024-09,610.25
+D0402,C056,CloudNest,Food,Dedicated Video,2024-01,6981.87
+D0403,C056,NovaTech,Food,Dedicated Video,2024-06,6212.59
+D0404,C023,NovaTech,Fitness,Short,2024-12,3020.3
+D0405,C036,PureSkin,Beauty,Short,2024-08,500
+D0406,C037,PixelPlay,Beauty,Integration,2025-02,7511.51
+D0407,C056,PeakFuel,Food,Integration,2024-10,5626.72
+D0408,C036,ZenLiving,Beauty,Dedicated Video,2024-06,672.62
+D0409,C048,NovaTech,Beauty,Short,2024-05,1015.79
+D0410,C023,CloudNest,Fitness,Dedicated Video,2025-11,8884.85
+D0411,C009,AeroFit,Gaming,Integration,2024-07,2025.62
+D0412,C060,SnackHouse,Gaming,Livestream,2025-08,1995.78
+D0413,C047,GlowLab,Finance,Short,2025-01,75647.99
+D0414,C057,ZenLiving,Tech,Integration,2025-05,62895.85
+D0415,C026,ByteBank,Finance,Short,2024-10,24956.14
+D0416,C012,CoinFlow,Beauty,Integration,2025-01,874.47
+D0417,C021,AeroFit,Fitness,Integration,2025-11,500
+D0418,C025,GlowLab,Gaming,Livestream,2024-02,642.87
+D0419,C027,CloudNest,Gaming,Short,2024-10,27587.89
+D0420,C055,NovaTech,Finance,Livestream,2025-06,37049.94
+D0421,C016,TrailGear,Lifestyle,Short,2025-08,587.47
+D0422,C022,PayPilot,Finance,Dedicated Video,2024-02,500
+D0423,C012,TrailGear,Beauty,Livestream,2025-12,995.36
+D0424,C031,FitForge,Lifestyle,Integration,2024-04,500
+D0425,C006,UrbanEats,Tech,Livestream,2025-12,706.81
+D0426,C040,ByteBank,Beauty,Livestream,2025-05,10342.74
+D0427,C002,PixelPlay,Beauty,Livestream,2025-09,13113.34
+D0428,C045,NovaTech,Beauty,Short,2024-09,500
+D0429,C054,PayPilot,Food,Integration,2024-07,500
+D0430,C058,PayPilot,Tech,Short,2025-03,1286.59
+D0431,C002,AeroFit,Beauty,Integration,2025-07,15381.06
+D0432,C037,CloudNest,Beauty,Livestream,2024-06,4246.65
+D0433,C057,NovaTech,Tech,Integration,2024-12,56497.13
+D0434,C052,ByteBank,Beauty,Livestream,2025-05,24471.8
+D0435,C053,ZenLiving,Gaming,Integration,2024-07,500
+D0436,C057,PixelPlay,Tech,Dedicated Video,2024-04,107872.72
+D0437,C019,MetaMart,Beauty,Short,2025-06,500
+D0438,C036,ZenLiving,Beauty,Short,2024-09,500
+D0439,C004,ZenLiving,Food,Integration,2024-01,500
+D0440,C040,UrbanEats,Beauty,Short,2024-10,5464.12
+D0441,C006,SnackHouse,Tech,Livestream,2024-04,508.27
+D0442,C012,UrbanEats,Beauty,Short,2024-11,556.16
+D0443,C033,PayPilot,Food,Dedicated Video,2025-01,76162.72
+D0444,C011,PureSkin,Lifestyle,Livestream,2025-01,500
+D0445,C012,PeakFuel,Beauty,Dedicated Video,2025-12,2946.01
+D0446,C039,NovaTech,Food,Dedicated Video,2025-10,1088.13
+D0447,C049,TrailGear,Gaming,Integration,2025-10,500
+D0448,C059,TrailGear,Lifestyle,Livestream,2025-11,44620.5
+D0449,C004,LumaBeauty,Food,Short,2025-06,500
+D0450,C046,VoltEnergy,Lifestyle,Livestream,2025-01,16664.55
+D0451,C010,VoltEnergy,Gaming,Short,2025-10,2155.06
+D0452,C056,AeroFit,Food,Livestream,2025-11,3436.14
+D0453,C028,MetaMart,Tech,Dedicated Video,2025-07,34231.72
+D0454,C008,FitForge,Lifestyle,Livestream,2025-11,500
+D0455,C057,NovaTech,Tech,Dedicated Video,2024-08,105413.07
+D0456,C031,TrailGear,Lifestyle,Livestream,2025-05,500
+D0457,C047,PeakFuel,Finance,Short,2024-02,72366.33
+D0458,C055,UrbanEats,Finance,Short,2024-09,13228.65
+D0459,C043,UrbanEats,Gaming,Livestream,2024-12,1069.47
+D0460,C054,CoinFlow,Food,Livestream,2025-02,500
+D0461,C049,UrbanEats,Gaming,Dedicated Video,2024-02,500
+D0462,C034,PayPilot,Lifestyle,Livestream,2024-01,6711.76
+D0463,C041,PureSkin,Lifestyle,Short,2025-02,1000.53
+D0464,C047,ByteBank,Finance,Integration,2025-05,73903.59
+D0465,C034,ByteBank,Lifestyle,Dedicated Video,2025-10,16215.24
+D0466,C046,AeroFit,Lifestyle,Dedicated Video,2024-03,55585.18
+D0467,C017,PeakFuel,Food,Short,2025-03,18870.17
+D0468,C018,PixelPlay,Fitness,Dedicated Video,2025-01,57347.22
+D0469,C040,PeakFuel,Beauty,Livestream,2024-06,8083.5
+D0470,C037,LumaBeauty,Beauty,Short,2025-03,1442.18
+D0471,C058,SnackHouse,Tech,Livestream,2025-07,531.59
+D0472,C045,PeakFuel,Beauty,Livestream,2024-04,533.99
+D0473,C024,ByteBank,Lifestyle,Short,2024-03,45656.84
+D0474,C041,CloudNest,Lifestyle,Short,2025-04,500
+D0475,C025,SnackHouse,Gaming,Dedicated Video,2025-06,1221.89
+D0476,C008,GlowLab,Lifestyle,Integration,2025-09,500
+D0477,C048,ByteBank,Beauty,Integration,2025-04,1454.75
+D0478,C030,LumaBeauty,Gaming,Integration,2025-07,500
+D0479,C052,CoinFlow,Beauty,Livestream,2024-11,26383.21
+D0480,C010,SnackHouse,Gaming,Livestream,2024-06,6164.81
+D0481,C050,CloudNest,Lifestyle,Integration,2024-01,16954.57
+D0482,C045,CloudNest,Beauty,Integration,2024-07,500
+D0483,C040,PayPilot,Beauty,Dedicated Video,2025-09,25661.08
+D0484,C033,CloudNest,Food,Integration,2025-03,35501.81
+D0485,C032,GlowLab,Finance,Integration,2024-06,2462.04
+D0486,C060,PixelPlay,Gaming,Integration,2024-06,3593.26
+D0487,C048,VoltEnergy,Beauty,Short,2024-08,1121.43
+D0488,C010,UrbanEats,Gaming,Integration,2025-08,5683.97
+D0489,C003,AeroFit,Gaming,Dedicated Video,2024-09,500
+D0490,C037,VoltEnergy,Beauty,Integration,2024-03,3855.51
+D0491,C048,CloudNest,Beauty,Integration,2024-08,1047.97
+D0492,C047,NovaTech,Finance,Dedicated Video,2025-02,168624.73
+D0493,C045,NovaTech,Beauty,Livestream,2024-07,500
+D0494,C030,PeakFuel,Gaming,Livestream,2024-05,500
+D0495,C025,GlowLab,Gaming,Short,2025-05,500
+D0496,C033,PixelPlay,Food,Short,2024-02,10093.19
+D0497,C009,CoinFlow,Gaming,Short,2024-08,2446.84
+D0498,C033,PayPilot,Food,Livestream,2024-09,9727.99
+D0499,C058,AeroFit,Tech,Short,2025-03,1286.8
+D0500,C019,VoltEnergy,Beauty,Dedicated Video,2024-04,500
+D0501,C044,VoltEnergy,Beauty,Integration,2025-04,500
+D0502,C038,UrbanEats,Beauty,Short,2025-09,500
+D0503,C058,AeroFit,Tech,Short,2024-06,1192.12
+D0504,C046,LumaBeauty,Lifestyle,Short,2024-06,30234.65
+D0505,C037,TrailGear,Beauty,Integration,2025-03,2717.35
+D0506,C008,FitForge,Lifestyle,Dedicated Video,2025-01,500
+D0507,C022,ByteBank,Finance,Short,2025-04,500
+D0508,C047,GlowLab,Finance,Livestream,2024-02,40540.45
+D0509,C039,SnackHouse,Food,Integration,2025-07,500
+D0510,C013,SnackHouse,Food,Livestream,2024-11,4655.46
+D0511,C024,AeroFit,Lifestyle,Dedicated Video,2024-10,61369.84
+D0512,C052,LumaBeauty,Beauty,Livestream,2025-12,52351.92
+D0513,C005,TrailGear,Fitness,Livestream,2024-03,1461.08
+D0514,C036,UrbanEats,Beauty,Livestream,2024-02,500
+D0515,C017,CoinFlow,Food,Short,2025-09,26160.8
+D0516,C032,ByteBank,Finance,Dedicated Video,2025-08,6528.43
+D0517,C024,MetaMart,Lifestyle,Dedicated Video,2024-09,41355.85
+D0518,C004,PayPilot,Food,Short,2024-10,500
+D0519,C021,CloudNest,Fitness,Short,2025-10,500
+D0520,C027,FitForge,Gaming,Short,2024-06,8924.15

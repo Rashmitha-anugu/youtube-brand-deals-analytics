@@ -1,0 +1,344 @@
+{
+  "kpis": {
+    "campaigns": 520,
+    "creators": 60,
+    "spend": 6665591.0,
+    "revenue": 18683756.0,
+    "blended_roi": 2.8,
+    "avg_roi": 2.05,
+    "views": 154206390,
+    "conversions": 262123,
+    "pct_at_risk": 35.8
+  },
+  "roi_by_category": [
+    {
+      "category": "Finance",
+      "campaigns": 64,
+      "spend": 1921599.0,
+      "revenue": 9402550.0,
+      "roi": 4.89
+    },
+    {
+      "category": "Fitness",
+      "campaigns": 42,
+      "spend": 430082.0,
+      "revenue": 1013185.0,
+      "roi": 2.36
+    },
+    {
+      "category": "Beauty",
+      "campaigns": 110,
+      "spend": 733993.0,
+      "revenue": 1732491.0,
+      "roi": 2.36
+    },
+    {
+      "category": "Tech",
+      "campaigns": 48,
+      "spend": 940139.0,
+      "revenue": 2201719.0,
+      "roi": 2.34
+    },
+    {
+      "category": "Lifestyle",
+      "campaigns": 95,
+      "spend": 1568724.0,
+      "revenue": 3260895.0,
+      "roi": 2.08
+    },
+    {
+      "category": "Gaming",
+      "campaigns": 85,
+      "spend": 291792.0,
+      "revenue": 385376.0,
+      "roi": 1.32
+    },
+    {
+      "category": "Food",
+      "campaigns": 76,
+      "spend": 779260.0,
+      "revenue": 687540.0,
+      "roi": 0.88
+    }
+  ],
+  "roi_by_format": [
+    {
+      "format": "Short",
+      "campaigns": 138,
+      "avg_view_pct": 42.6,
+      "roi": 4.02
+    },
+    {
+      "format": "Integration",
+      "campaigns": 139,
+      "avg_view_pct": 40.2,
+      "roi": 3.19
+    },
+    {
+      "format": "Livestream",
+      "campaigns": 115,
+      "avg_view_pct": 43.6,
+      "roi": 2.59
+    },
+    {
+      "format": "Dedicated Video",
+      "campaigns": 128,
+      "avg_view_pct": 41.4,
+      "roi": 2.16
+    }
+  ],
+  "revenue_by_month": [
+    {
+      "month": "2024-01",
+      "spend": 641004.0,
+      "revenue": 2103218.0
+    },
+    {
+      "month": "2024-02",
+      "spend": 547612.0,
+      "revenue": 1748319.0
+    },
+    {
+      "month": "2024-03",
+      "spend": 409654.0,
+      "revenue": 782617.0
+    },
+    {
+      "month": "2024-04",
+      "spend": 299998.0,
+      "revenue": 575964.0
+    },
+    {
+      "month": "2024-05",
+      "spend": 86184.0,
+      "revenue": 160720.0
+    },
+    {
+      "month": "2024-06",
+      "spend": 195244.0,
+      "revenue": 471306.0
+    },
+    {
+      "month": "2024-07",
+      "spend": 34198.0,
+      "revenue": 59759.0
+    },
+    {
+      "month": "2024-08",
+      "spend": 333524.0,
+      "revenue": 870246.0
+    },
+    {
+      "month": "2024-09",
+      "spend": 404605.0,
+      "revenue": 1786139.0
+    },
+    {
+      "month": "2024-10",
+      "spend": 187258.0,
+      "revenue": 746866.0
+    },
+    {
+      "month": "2024-11",
+      "spend": 116527.0,
+      "revenue": 406474.0
+    },
+    {
+      "month": "2024-12",
+      "spend": 128114.0,
+      "revenue": 547829.0
+    },
+    {
+      "month": "2025-01",
+      "spend": 273035.0,
+      "revenue": 571459.0
+    },
+    {
+      "month": "2025-02",
+      "spend": 397036.0,
+      "revenue": 1230311.0
+    },
+    {
+      "month": "2025-03",
+      "spend": 407268.0,
+      "revenue": 1080673.0
+    },
+    {
+      "month": "2025-04",
+      "spend": 263382.0,
+      "revenue": 548910.0
+    },
+    {
+      "month": "2025-05",
+      "spend": 337793.0,
+      "revenue": 634772.0
+    },
+    {
+      "month": "2025-06",
+      "spend": 158300.0,
+      "revenue": 364995.0
+    },
+    {
+      "month": "2025-07",
+      "spend": 199801.0,
+      "revenue": 476719.0
+    },
+    {
+      "month": "2025-08",
+      "spend": 295089.0,
+      "revenue": 429736.0
+    },
+    {
+      "month": "2025-09",
+      "spend": 276636.0,
+      "revenue": 607324.0
+    },
+    {
+      "month": "2025-10",
+      "spend": 245071.0,
+      "revenue": 701619.0
+    },
+    {
+      "month": "2025-11",
+      "spend": 225689.0,
+      "revenue": 889170.0
+    },
+    {
+      "month": "2025-12",
+      "spend": 202571.0,
+      "revenue": 888614.0
+    }
+  ],
+  "top_creators": [
+    {
+      "creator_name": "Aria Rivera",
+      "category": "Finance",
+      "subscribers": 7905314,
+      "campaigns": 14,
+      "revenue": 6302000.0,
+      "roi": 4.83
+    },
+    {
+      "creator_name": "Zoe Silva",
+      "category": "Finance",
+      "subscribers": 3467157,
+      "campaigns": 10,
+      "revenue": 1916274.0,
+      "roi": 5.12
+    },
+    {
+      "creator_name": "Nina Larsen",
+      "category": "Tech",
+      "subscribers": 5136273,
+      "campaigns": 9,
+      "revenue": 1550610.0,
+      "roi": 2.19
+    },
+    {
+      "creator_name": "Ravi Haddad",
+      "category": "Lifestyle",
+      "subscribers": 5408159,
+      "campaigns": 13,
+      "revenue": 1291474.0,
+      "roi": 1.84
+    },
+    {
+      "creator_name": "Eli Patel",
+      "category": "Beauty",
+      "subscribers": 6445508,
+      "campaigns": 9,
+      "revenue": 966462.0,
+      "roi": 2.6
+    },
+    {
+      "creator_name": "Aria Costa",
+      "category": "Lifestyle",
+      "subscribers": 5171653,
+      "campaigns": 6,
+      "revenue": 924526.0,
+      "roi": 3.01
+    },
+    {
+      "creator_name": "Ivy Kim",
+      "category": "Fitness",
+      "subscribers": 3677741,
+      "campaigns": 10,
+      "revenue": 837501.0,
+      "roi": 2.31
+    },
+    {
+      "creator_name": "Eli Chen",
+      "category": "Tech",
+      "subscribers": 1626602,
+      "campaigns": 10,
+      "revenue": 553877.0,
+      "roi": 2.79
+    },
+    {
+      "creator_name": "Eli Okafor",
+      "category": "Lifestyle",
+      "subscribers": 3147113,
+      "campaigns": 10,
+      "revenue": 497703.0,
+      "roi": 2.0
+    },
+    {
+      "creator_name": "Priya Okafor",
+      "category": "Finance",
+      "subscribers": 3157008,
+      "campaigns": 4,
+      "revenue": 423324.0,
+      "roi": 4.95
+    }
+  ],
+  "at_risk": [
+    {
+      "category": "Food",
+      "format": "Dedicated Video",
+      "campaigns": 16,
+      "spend_at_risk": 199705.0
+    },
+    {
+      "category": "Lifestyle",
+      "format": "Dedicated Video",
+      "campaigns": 9,
+      "spend_at_risk": 183814.0
+    },
+    {
+      "category": "Tech",
+      "format": "Dedicated Video",
+      "campaigns": 2,
+      "spend_at_risk": 154913.0
+    },
+    {
+      "category": "Lifestyle",
+      "format": "Livestream",
+      "campaigns": 12,
+      "spend_at_risk": 121061.0
+    },
+    {
+      "category": "Lifestyle",
+      "format": "Integration",
+      "campaigns": 10,
+      "spend_at_risk": 117175.0
+    },
+    {
+      "category": "Food",
+      "format": "Short",
+      "campaigns": 12,
+      "spend_at_risk": 110730.0
+    },
+    {
+      "category": "Food",
+      "format": "Livestream",
+      "campaigns": 14,
+      "spend_at_risk": 88758.0
+    },
+    {
+      "category": "Tech",
+      "format": "Integration",
+      "campaigns": 2,
+      "spend_at_risk": 77102.0
+    }
+  ]
+}
