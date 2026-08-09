@@ -15,9 +15,10 @@ import json
 import os
 import sqlite3
 
+# Flat layout: data, scripts, and outputs all live in the same directory.
 HERE = os.path.dirname(os.path.abspath(__file__))
-ROOT = os.path.dirname(HERE)
-DATA = os.path.join(ROOT, "data")
+ROOT = HERE
+DATA = HERE
 
 # --------------------------------------------------------------------------
 # SQL is the single source of truth. Each query is also dumped to queries.sql.
@@ -168,7 +169,7 @@ def main():
 def build_dashboard(results):
     from dashboard_template import render
     html = render(results)
-    out = os.path.join(ROOT, "dashboard", "dashboard.html")
+    out = os.path.join(ROOT, "dashboard.html")
     with open(out, "w") as f:
         f.write(html)
 

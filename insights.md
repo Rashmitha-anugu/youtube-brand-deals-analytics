@@ -1,9 +1,9 @@
 # YouTube Brand Deals — GTM Insight Narrative
 
 > **Note on data:** This analysis runs on a *synthetic, reproducible* dataset
-> (`data/generate_data.py`), built to demonstrate go-to-market analytics
+> (`generate_data.py`), built to demonstrate go-to-market analytics
 > methodology for a YouTube Brand Deals–style business. It contains no real or
-> proprietary data. All figures below are computed by `analysis/analysis.py`.
+> proprietary data. All figures below are computed by `analysis.py`.
 
 ## Executive summary
 
@@ -54,7 +54,7 @@ returning under 1.0x**. Food + Dedicated Video alone is **$200K** at a loss.
 ## Method
 
 Star-schema SQL joins across `creators`, `brand_deals`, and `deal_performance`
-(SQLite), aggregated in `analysis/analysis.py`; ROI defined as attributed
+(SQLite), aggregated in `analysis.py`; ROI defined as attributed
 revenue ÷ media spend. Robust framing (median campaign ROI, at-risk share)
 is preferred over the mean, which a small number of viral overperformers skews.
-The interactive dashboard is in `dashboard/dashboard.html`.
+The interactive dashboard is in `dashboard.html`.
